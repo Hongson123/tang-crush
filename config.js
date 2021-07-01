@@ -1,9 +1,6 @@
 const CONFIG = {
     introTitle: 'Chi à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao Chi cứ đi nhầm đường
-    Lạc vào tim Sơn lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Sơn có điều muốn nói`,
     btnIntro: 'hihi',
     title: 'Phải chăng Chi cũng thích Sơn',
     desc: 'Phải chăng chi cũng có tình cảm đặc biệt đó giống Sơn ',
